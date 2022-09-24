@@ -1,0 +1,29 @@
+div{            
+    font-style: italic;
+     font-size: 180%;
+    
+
+}
+
+li{
+  color:red;
+}
+
+
+
+nav{
+background: url(resau\ informatique.png);
+height:100vh ;
+color: rgb(255, 255, 255);
+display: flex ;
+justify-content: center;
+text-decoration:solid;
+font-style: italic;
+font-size:500%  ;
+margin: 0px;
+
+}
+
+pro{
+  color: rgb(255, 210, 210)
+}
